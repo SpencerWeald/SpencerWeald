@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Spencer Weald
+- I like coding side projects and I have uploaded some programs I made over summer 2023.
+- Unfortunately, due to plagarism rules at my university, I cannot re-use any of this code as it is in the public domain... Live and learn I guess haha!
